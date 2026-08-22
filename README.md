@@ -82,12 +82,14 @@ pip install pytesseract Pillow easyocr
 Comparasion-OCR-techinals/
 │
 ├── 📂 readingPlate/
-        ├── 📂 images/
-           └── Imagens utilizadas nos testes em lote
-        ├── 🐍 readingPlate/tesseractocr.py
-            └── Processamento em lote utilizando Tesseract
-        ├── 🐍 readingPlate/easyocr.py
-            └── Processamento em lote utilizando EasyOCR
+|        |
+|        ├── 📂 images/
+|           └── Imagens utilizadas nos testes em lote
+||       ├── 🐍 readingPlate/tesseractocr.py
+|            └── Processamento em lote utilizando Tesseract
+|        ├── 🐍 readingPlate/easyocr.py
+|           └── Processamento em lote utilizando EasyOCR
+|        |
 ├── 🖼️ pagSherlook.jpeg
 │   └── Imagem utilizada no teste individual
 │
