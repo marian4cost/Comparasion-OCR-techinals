@@ -1,0 +1,902 @@
+===== RESULTADOS EASYOCR - BATCH PLACAS =====
+
+[1] Imagem: 0bb5eae6-961b-4d66-be3c-3c7334889f36_jpg.rf.7531087b5e73ac7999518c3aad007532.jpg
+⏱ Tempo: 1.470s
+📄 Leitura: HHsYH8Y
+----------------------------------------
+[2] Imagem: 0aeda45a-a343-4335-8aca-edd5cc3854c6_jpg.rf.e69a46222a40587ae2da77b4dd5a6e6c.jpg
+⏱ Tempo: 1.153s
+📄 Leitura: 2 HrT?
+----------------------------------------
+[3] Imagem: 0b1e99cf-eab2-4745-b6e8-87b2ad8d4d0b_jpg.rf.e051295e91a0fe6a8dee44ebc0c23421.jpg
+⏱ Tempo: 0.987s
+📄 Leitura: 1 NOw 2810
+----------------------------------------
+[4] Imagem: 0f71f3d6-21d5-452e-8936-37e7a28b858c_jpg.rf.84f6b9aaf017287c1720a845596b871b.jpg
+⏱ Tempo: 1.116s
+📄 Leitura: 9 phj6995 
+----------------------------------------
+[5] Imagem: 0f721656-df4d-4843-acae-371a90eeb328_jpg.rf.33fe1638e94b9ede7c779d9d72bfcfb8.jpg
+⏱ Tempo: 1.052s
+📄 Leitura:  11 LSuBFG2
+----------------------------------------
+[6] Imagem: 0ac23294-449a-44d2-a3fd-f028d78b6a7e_jpg.rf.a9edfad965b1d1bdb7f89ecd48698bd0.jpg
+⏱ Tempo: 1.033s
+📄 Leitura: ANFA87
+----------------------------------------
+[7] Imagem: 00cd7cc2-f19c-4ce7-8ac8-b10218d6a6c8_jpg.rf.fd4bf657e505c06300a4338aba48df21.jpg
+⏱ Tempo: 0.963s
+📄 Leitura: Misil ht5F76
+----------------------------------------
+[8] Imagem: 0b1e99cf-eab2-4745-b6e8-87b2ad8d4d0b_jpg.rf.81e617c260eb594f167ce2ff2f5fa8ef.jpg
+⏱ Tempo: 1.002s
+📄 Leitura: NOH 2810
+----------------------------------------
+[9] Imagem: 0f08e2f6-5cb3-4636-98d3-761106246239_jpg.rf.fd138ba1ab95e9d4ac601f272e0c3736.jpg
+⏱ Tempo: 0.975s
+📄 Leitura: IN HYH883H
+----------------------------------------
+[10] Imagem: 0ce92b7e-1c94-46b2-a554-22778db3eeb1_jpg.rf.19386010ef1a8d57b5d7f3800a94cb92.jpg
+⏱ Tempo: 0.998s
+📄 Leitura: bHH6M
+----------------------------------------
+[11] Imagem: 1b0f800d-1713-4373-82b9-6e905826d134_jpg.rf.7ddd680b8aef6dc94a22eb040f2183d3.jpg
+⏱ Tempo: 1.055s
+📄 Leitura: Ic HBN6507
+----------------------------------------
+[12] Imagem: 0bb5eae6-961b-4d66-be3c-3c7334889f36_jpg.rf.93c0f0c238be3198fb61fb0f1b52d09d.jpg
+⏱ Tempo: 0.959s
+📄 Leitura: '8AsH8Y
+----------------------------------------
+[13] Imagem: 1b0f800d-1713-4373-82b9-6e905826d134_jpg.rf.7360b85e6abc5111ad5390aa43ae5472.jpg
+⏱ Tempo: 0.985s
+📄 Leitura: HpN6507
+----------------------------------------
+[14] Imagem: 0f004a62-8749-4b10-9269-d3631689e22f_jpg.rf.9a192a43350341c36bbe502df200c93e.jpg
+⏱ Tempo: 1.021s
+📄 Leitura: Ii4 87ZI899
+----------------------------------------
+[15] Imagem: 0c883fca-f2bb-4f62-a76c-a158c307224f_jpg.rf.ab216f94ebd1413a64a74111869e97e8.jpg
+⏱ Tempo: 0.954s
+📄 Leitura: [0599
+----------------------------------------
+[16] Imagem: 1bc01c18-c847-4bb1-ad38-2db21ff2a810_jpg.rf.7ff9fd10fa4219d7f869a3abc01d94be.jpg
+⏱ Tempo: 0.942s
+📄 Leitura: uua PHXGF 24
+----------------------------------------
+[17] Imagem: 0fcc0db7-adf6-4aad-81eb-7e7b75ac68a2_jpg.rf.c8a26d1f76b37015ac575c4fa8630662.jpg
+⏱ Tempo: 0.929s
+📄 Leitura: Wv 00a9039
+----------------------------------------
+[18] Imagem: 0be9fd4a-cba3-41ba-b618-1331288380b2_jpg.rf.6cbb33cfad6df956325cb7d4d2d5e643.jpg
+⏱ Tempo: 0.948s
+📄 Leitura: 8Zu8AS
+----------------------------------------
+[19] Imagem: 0b1e99cf-eab2-4745-b6e8-87b2ad8d4d0b_jpg.rf.42a12763fa6af2dce835b08ee66077f7.jpg
+⏱ Tempo: 0.928s
+📄 Leitura: NOH 2810
+----------------------------------------
+[20] Imagem: 1b3ce04b-6ad5-4fd5-bc26-af647d54ec17_jpg.rf.bd1e3c76a2a004d84de65bc05f1bd647.jpg
+⏱ Tempo: 0.965s
+📄 Leitura: FS6~ 2525 ,
+----------------------------------------
+[21] Imagem: 0f08e2f6-5cb3-4636-98d3-761106246239_jpg.rf.77a0c7b9c18b9aa6d5fda0975b6d0c9c.jpg
+⏱ Tempo: 0.965s
+📄 Leitura: MU HH5836
+----------------------------------------
+[22] Imagem: 0edb25f1-eaae-4a1a-987b-971be8480d16_jpg.rf.d63f713a3647ec0af87dcb383a175ef5.jpg
+⏱ Tempo: 0.998s
+📄 Leitura: DHRIC93
+----------------------------------------
+[23] Imagem: 0d00832e-aad1-43f2-b5d1-bba218b34b43_jpg.rf.3e4f9f8ad5c2c1a16bbe0aefdac0299d.jpg
+⏱ Tempo: 0.960s
+📄 Leitura: MR
+----------------------------------------
+[24] Imagem: 0ab76d45-9d83-44d0-b1e3-0c1720ea4fe5_jpg.rf.b62e80d482b620eae9c04df1a9a7e3b0.jpg
+⏱ Tempo: 1.027s
+📄 Leitura: Phd52io
+----------------------------------------
+[25] Imagem: 0ed0ed92-5d1c-4526-ab53-87ff4281ddcb_jpg.rf.eeecc0c0128f34696cf4b28b8e2683bd.jpg
+⏱ Tempo: 0.997s
+📄 Leitura: 6224 BHZ;
+----------------------------------------
+[26] Imagem: 0e46ff03-5e6c-4434-9efa-49cfe0735042_jpg.rf.a2b572668e6bbc48ca732f489a2523c6.jpg
+⏱ Tempo: 0.978s
+📄 Leitura: JiUI FIS8845 
+----------------------------------------
+[27] Imagem: 0ac23294-449a-44d2-a3fd-f028d78b6a7e_jpg.rf.083414bb0ec3a8d21924c0a14f9b200f.jpg
+⏱ Tempo: 0.957s
+📄 Leitura: HxuFH6Y
+----------------------------------------
+[28] Imagem: 0f335a3f-ba86-45ef-a2cb-710944015f05_jpg.rf.73cbcc831609ee35ae886553bf122092.jpg
+⏱ Tempo: 0.958s
+📄 Leitura: HO8Q
+----------------------------------------
+[29] Imagem: 1b3ce04b-6ad5-4fd5-bc26-af647d54ec17_jpg.rf.f9443ff71dbcfbe46e5f5d4f8a7cf8a3.jpg
+⏱ Tempo: 0.982s
+📄 Leitura: F562525
+----------------------------------------
+[30] Imagem: 0fb3a9e4-7a6c-4405-a464-efa2b8f4a6bd_jpg.rf.36b4a1ebf65308c62432148cc7cc107d.jpg
+⏱ Tempo: 1.025s
+📄 Leitura: '0857884
+----------------------------------------
+[31] Imagem: 00f87d4e-1532-462b-8277-39778481ecd3_jpg.rf.23d5a99a316389b24c2fbf7890a77411.jpg
+⏱ Tempo: 0.950s
+📄 Leitura: KpI0285
+----------------------------------------
+[32] Imagem: 1a2ec192-2e8c-4121-b933-88c78f222463_jpg.rf.c5bb5fca6be21a8ac092e9d2adf39812.jpg
+⏱ Tempo: 0.968s
+📄 Leitura: 8205E7
+----------------------------------------
+[33] Imagem: 0f71f3d6-21d5-452e-8936-37e7a28b858c_jpg.rf.17ad5cea7759ef3fa405f8790c435a4e.jpg
+⏱ Tempo: 0.964s
+📄 Leitura: ph6995
+----------------------------------------
+[34] Imagem: 0f08e2f6-5cb3-4636-98d3-761106246239_jpg.rf.3da32eaf18b9f23708f9348242265c20.jpg
+⏱ Tempo: 0.956s
+📄 Leitura: Mw HHHE83A
+----------------------------------------
+[35] Imagem: 0e1b883d-26b1-4d25-a634-4e37fae0ea69_jpg.rf.6ae9e2b4365b676ca432abaa74f53924.jpg
+⏱ Tempo: 1.013s
+📄 Leitura: O KHS8RA
+----------------------------------------
+[36] Imagem: 1b08be27-520c-4da5-b7df-2cd3fbb14585_jpg.rf.87dfd291748a62d27e3d681dfcc2fc75.jpg
+⏱ Tempo: 0.990s
+📄 Leitura: NOH ' 98| hiiius
+----------------------------------------
+[37] Imagem: 1b08be27-520c-4da5-b7df-2cd3fbb14585_jpg.rf.3d81fc5609c853a4c059db8c8138d817.jpg
+⏱ Tempo: 0.987s
+📄 Leitura: Jivs NoKEnbi
+----------------------------------------
+[38] Imagem: 0f56d789-5aa0-4679-8235-2391270ab329_jpg.rf.68a41bb97994cc07f1b2c35685b6ecf9.jpg
+⏱ Tempo: 0.944s
+📄 Leitura: 020578
+----------------------------------------
+[39] Imagem: 0dd9be17-8ed7-408e-a829-8757725fcf2c_jpg.rf.58fe412bbaa5a7cd4ff7a74da03ea068.jpg
+⏱ Tempo: 0.957s
+📄 Leitura: HQ (lvs 196p|
+----------------------------------------
+[40] Imagem: 00f87d4e-1532-462b-8277-39778481ecd3_jpg.rf.09773a2010a2bfe2fec3a8c7fb5aad53.jpg
+⏱ Tempo: 0.950s
+📄 Leitura: KpH0285
+----------------------------------------
+[41] Imagem: 0ce92b7e-1c94-46b2-a554-22778db3eeb1_jpg.rf.1ba04b36bfca30f4925b5fc9dc0a303d.jpg
+⏱ Tempo: 0.975s
+📄 Leitura: phGO7
+----------------------------------------
+[42] Imagem: 00a170f0-eeb2-4ea9-8ad8-4c86feb3d89e_jpg.rf.1a8761a1362e4d767d837de6a68d72e6.jpg
+⏱ Tempo: 1.025s
+📄 Leitura: I015 HM8A845
+----------------------------------------
+[43] Imagem: 0f335a3f-ba86-45ef-a2cb-710944015f05_jpg.rf.ff472e08f2f35012aa8518d09bff82bf.jpg
+⏱ Tempo: 0.955s
+📄 Leitura: HO8A
+----------------------------------------
+[44] Imagem: 0dc6fb1a-2ce5-4581-aa36-17a99ff54d16_jpg.rf.a5bcbb85c849863156e666e6c602fcf9.jpg
+⏱ Tempo: 0.963s
+📄 Leitura: Phd,52i0
+----------------------------------------
+[45] Imagem: 0b925e6f-9624-4fbb-b402-cfdb31b20892_jpg.rf.e554919bf6e0e226e7b844a677a76e59.jpg
+⏱ Tempo: 0.952s
+📄 Leitura: j7H97978
+----------------------------------------
+[46] Imagem: 0d674024-4aad-4ebd-babe-421ad0ce1822_jpg.rf.9bf57b9ed92c25f68a735786a2417ac1.jpg
+⏱ Tempo: 0.962s
+📄 Leitura: 0 Wn 0 078MMI
+----------------------------------------
+[47] Imagem: 0c883fca-f2bb-4f62-a76c-a158c307224f_jpg.rf.5afa6d0486a37c4c6ca55ee8d265414d.jpg
+⏱ Tempo: 0.983s
+📄 Leitura: JuJ0599
+----------------------------------------
+[48] Imagem: 1a2ec192-2e8c-4121-b933-88c78f222463_jpg.rf.39067231b77bc1f0f77116498f6ee8f1.jpg
+⏱ Tempo: 0.963s
+📄 Leitura: 8705E7
+----------------------------------------
+[49] Imagem: 0e296f65-a35d-4912-a758-fc5efae5a6ff_jpg.rf.cdb7f8d82aee180bd3ecbd870e632756.jpg
+⏱ Tempo: 0.947s
+📄 Leitura: I PKcT4Uy
+----------------------------------------
+[50] Imagem: 1afdc22a-7dc3-44a3-b994-313e8781efbd_jpg.rf.1af19f560dfd1db9b2433edcc93a808a.jpg
+⏱ Tempo: 0.973s
+📄 Leitura: TNF5b25
+----------------------------------------
+[51] Imagem: 0bed50a1-4243-47ca-a7ad-d87305a67b39_jpg.rf.c67a3159c7ab39b89f244e8acc0a7d4d.jpg
+⏱ Tempo: 1.023s
+📄 Leitura: [00R9014
+----------------------------------------
+[52] Imagem: 0f71f3d6-21d5-452e-8936-37e7a28b858c_jpg.rf.a625484ef00685e889def58e64f34d81.jpg
+⏱ Tempo: 1.006s
+📄 Leitura: 4 phj6995 
+----------------------------------------
+[53] Imagem: 0dd124cb-f1a4-42c9-9cdc-b7ff827dc341_jpg.rf.4fd4697be64a5ea302a393ecf1b2ee6b.jpg
+⏱ Tempo: 1.047s
+📄 Leitura: 4W/ phj 9804
+----------------------------------------
+[54] Imagem: 0f56d789-5aa0-4679-8235-2391270ab329_jpg.rf.316e532d628e08180ef96c86254aeec2.jpg
+⏱ Tempo: 0.931s
+📄 Leitura: 020578
+----------------------------------------
+[55] Imagem: 1b2be48a-ee40-4558-b9be-55566a248208_jpg.rf.7d522d317ca585284e8db87687942e8a.jpg
+⏱ Tempo: 0.996s
+📄 Leitura: 7497 QYY6eI2
+----------------------------------------
+[56] Imagem: 1ab95f21-5e06-4d3c-83d9-887fdb3eb2ff_jpg.rf.7f70b54170536abb001847f6d1e9f3ac.jpg
+⏱ Tempo: 0.965s
+📄 Leitura: KVS6C3 
+----------------------------------------
+[57] Imagem: 1ac38246-f6a9-4c6b-9392-2825da4b95c7_jpg.rf.763d8e6dbb4c3f7fbeafb4406c3dd4e0.jpg
+⏱ Tempo: 0.983s
+📄 Leitura: PhJ9864
+----------------------------------------
+[58] Imagem: 0ac23294-449a-44d2-a3fd-f028d78b6a7e_jpg.rf.7ced4697095861173190b56c3c497c1c.jpg
+⏱ Tempo: 1.067s
+📄 Leitura: AKuFHMY
+----------------------------------------
+[59] Imagem: 0d48dff0-0ace-49c7-9c01-c73baa671f98_jpg.rf.e974fc74ffef779105982073a5a105ae.jpg
+⏱ Tempo: 0.970s
+📄 Leitura: 7upr 0664
+----------------------------------------
+[60] Imagem: 0f08e2f6-5cb3-4636-98d3-761106246239_jpg.rf.b695063857e17fd67caf0a3219d1f28f.jpg
+⏱ Tempo: 0.970s
+📄 Leitura: MW HHHE83A
+----------------------------------------
+[61] Imagem: 0bb5eae6-961b-4d66-be3c-3c7334889f36_jpg.rf.c7f5465ee5044183c42d4c723278fa22.jpg
+⏱ Tempo: 0.977s
+📄 Leitura: HHSYH87
+----------------------------------------
+[62] Imagem: 0ce92b7e-1c94-46b2-a554-22778db3eeb1_jpg.rf.9585aac5858a9cd7ba335b7db7eca46f.jpg
+⏱ Tempo: 0.994s
+📄 Leitura: ph6M]
+----------------------------------------
+[63] Imagem: 0b9d6f2e-a917-40e7-b31c-a305a694ffe5_jpg.rf.28c6307fb698a2853d6adb9662390553.jpg
+⏱ Tempo: 1.008s
+📄 Leitura: Hhash HUH5L25
+----------------------------------------
+[64] Imagem: 1b21ae1b-5c9e-42b4-af26-a1be6030f302_jpg.rf.9e2dd6fc9b166a4cc7886c0585e54284.jpg
+⏱ Tempo: 0.962s
+📄 Leitura: 81507V]
+----------------------------------------
+[65] Imagem: 1a371626-f1a2-4b67-939b-3eb7f48d0d9c_jpg.rf.7b8fac9552357c7d98b91d15394262c0.jpg
+⏱ Tempo: 0.981s
+📄 Leitura: Ivsl 7FF7
+----------------------------------------
+[66] Imagem: 1b60da90-da89-4ae5-aeb1-bc84e959eb5e_jpg.rf.99c390c6608bdaa3deab90cc9f479b02.jpg
+⏱ Tempo: 0.981s
+📄 Leitura: 52 <p Pn n BYH8828 
+----------------------------------------
+[67] Imagem: 0dd124cb-f1a4-42c9-9cdc-b7ff827dc341_jpg.rf.8e905bf5744b90183f3515319f2f23f1.jpg
+⏱ Tempo: 0.993s
+📄 Leitura: 4WI Jphj 9804
+----------------------------------------
+[68] Imagem: 0e3dcc59-feb0-48f6-a346-7d0aab4b55e7_jpg.rf.0222b7cafe7830f16220acdfb20f00c4.jpg
+⏱ Tempo: 0.971s
+📄 Leitura: FHCFTIA
+----------------------------------------
+[69] Imagem: 0bb5eae6-961b-4d66-be3c-3c7334889f36_jpg.rf.604ef539009fb2eab325808c9613fa5e.jpg
+⏱ Tempo: 0.997s
+📄 Leitura: 'Bus787
+----------------------------------------
+[70] Imagem: 1b60da90-da89-4ae5-aeb1-bc84e959eb5e_jpg.rf.e0dfe9a9abf29cf1df095de08ac7e598.jpg
+⏱ Tempo: 0.978s
+📄 Leitura: 52 cin Pu[ VBYH8828
+----------------------------------------
+[71] Imagem: 1b08be27-520c-4da5-b7df-2cd3fbb14585_jpg.rf.63047f11f515ed26d5765998f5b04fbe.jpg
+⏱ Tempo: 0.956s
+📄 Leitura: HpK9TbI ivs
+----------------------------------------
+[72] Imagem: 0e08e75d-6304-4c83-a7b2-4d97458838e2_jpg.rf.3c963cdfbaeae46daebfb334012556a9.jpg
+⏱ Tempo: 0.987s
+📄 Leitura: HYCuAS HYTUZA7L
+----------------------------------------
+[73] Imagem: 0f335a3f-ba86-45ef-a2cb-710944015f05_jpg.rf.3dfc020d3b00531f8f586a0d9b76a635.jpg
+⏱ Tempo: 0.988s
+📄 Leitura: H08280
+----------------------------------------
+[74] Imagem: 0ac23294-449a-44d2-a3fd-f028d78b6a7e_jpg.rf.d9008a0a73ed48135a8b2902b2181613.jpg
+⏱ Tempo: 1.002s
+📄 Leitura: Axu6H67
+----------------------------------------
+[75] Imagem: 0cb27ba0-e83f-4abb-b0e9-af6b5293a179_jpg.rf.176fa8ebf7cc31b6a1b4c0b17f60f186.jpg
+⏱ Tempo: 0.979s
+📄 Leitura: 705e7
+----------------------------------------
+[76] Imagem: 1afdc22a-7dc3-44a3-b994-313e8781efbd_jpg.rf.2c82724aea2e175bb32bcf2d69057a11.jpg
+⏱ Tempo: 1.003s
+📄 Leitura: 7NF5825
+----------------------------------------
+[77] Imagem: 0e08e75d-6304-4c83-a7b2-4d97458838e2_jpg.rf.33ee43ba231eaac91bfa3dabbd99ca89.jpg
+⏱ Tempo: 0.970s
+📄 Leitura: 3 NFOr
+----------------------------------------
+[78] Imagem: 0d00832e-aad1-43f2-b5d1-bba218b34b43_jpg.rf.601ccd229f2592f450f4af76aaffaaa8.jpg
+⏱ Tempo: 1.036s
+📄 Leitura: A8RT
+----------------------------------------
+[79] Imagem: 1ac38246-f6a9-4c6b-9392-2825da4b95c7_jpg.rf.5bad4911e58c4efa924f50939b1d0155.jpg
+⏱ Tempo: 0.974s
+📄 Leitura: Ph9804
+----------------------------------------
+[80] Imagem: 0eb57e7a-71a5-4fa2-b1c9-d26d7a14053a_jpg.rf.1d7d367ae623cbdce968505240e61c3d.jpg
+⏱ Tempo: 0.960s
+📄 Leitura: W 00a9039
+----------------------------------------
+[81] Imagem: 1b60da90-da89-4ae5-aeb1-bc84e959eb5e_jpg.rf.711c1958ed739993941be95357a84225.jpg
+⏱ Tempo: 1.022s
+📄 Leitura: 29 ci PAn VHYH 8828
+----------------------------------------
+[82] Imagem: 0e3dcc59-feb0-48f6-a346-7d0aab4b55e7_jpg.rf.a1d413bb8f700cf04ca517c15ad9eac8.jpg
+⏱ Tempo: 0.956s
+📄 Leitura: FHPTAI
+----------------------------------------
+[83] Imagem: 0e08e75d-6304-4c83-a7b2-4d97458838e2_jpg.rf.10ef86589af1047295fd9f8e291c076e.jpg
+⏱ Tempo: 1.001s
+📄 Leitura: AP8HHHS 7Y7827
+----------------------------------------
+[84] Imagem: 1bc01c18-c847-4bb1-ad38-2db21ff2a810_jpg.rf.938a8cd5b0299ef2f5bff828f69d4093.jpg
+⏱ Tempo: 1.020s
+📄 Leitura: iluua PhXGF24
+----------------------------------------
+[85] Imagem: 00a170f0-eeb2-4ea9-8ad8-4c86feb3d89e_jpg.rf.9fdf3bdfa2ffed364eb45db473cb9761.jpg
+⏱ Tempo: 1.057s
+📄 Leitura: I M8A845
+----------------------------------------
+[86] Imagem: 0fb3a9e4-7a6c-4405-a464-efa2b8f4a6bd_jpg.rf.e6fe71fac9bf813ccf8ae9b33ce89997.jpg
+⏱ Tempo: 0.958s
+📄 Leitura: O8 4684 "
+----------------------------------------
+[87] Imagem: 1afdc22a-7dc3-44a3-b994-313e8781efbd_jpg.rf.a268f49710c7732f52dd359bf3a1d1f1.jpg
+⏱ Tempo: 0.948s
+📄 Leitura: TNF5825
+----------------------------------------
+[88] Imagem: 0f004a62-8749-4b10-9269-d3631689e22f_jpg.rf.29d01a70d7779018d6ab382f9061d26b.jpg
+⏱ Tempo: 0.974s
+📄 Leitura: Wai BKZIB99
+----------------------------------------
+[89] Imagem: 0c96b396-6ac4-4826-88b6-fdde0713bfd0_jpg.rf.548628c83c0e49b45c78d39b04a9bc5d.jpg
+⏱ Tempo: 1.012s
+📄 Leitura: IUk 81 07x8866]
+----------------------------------------
+[90] Imagem: 1b2be48a-ee40-4558-b9be-55566a248208_jpg.rf.2117356d52a415b9c39b08c10e3bfcde.jpg
+⏱ Tempo: 1.003s
+📄 Leitura: A QhY6eI2
+----------------------------------------
+[91] Imagem: 0f869cd4-6cbc-4ff1-a9c7-4dce008dcead_jpg.rf.53d6a13295c98e3372473f588036e568.jpg
+⏱ Tempo: 0.953s
+📄 Leitura: KoHhE8A
+----------------------------------------
+[92] Imagem: 00b73e50-0809-451d-91f6-131b079e1f8d_jpg.rf.6620642992d80d7bff94dbabcfdbe773.jpg
+⏱ Tempo: 0.946s
+📄 Leitura: 'pu 
+----------------------------------------
+[93] Imagem: 0f004a62-8749-4b10-9269-d3631689e22f_jpg.rf.58c10d6d3e2df3c0848e340eac5098ee.jpg
+⏱ Tempo: 0.971s
+📄 Leitura: Iaasel  87ZIB99
+----------------------------------------
+[94] Imagem: 1b0f800d-1713-4373-82b9-6e905826d134_jpg.rf.702f16e8a60aeab1e549992802df73c3.jpg
+⏱ Tempo: 0.996s
+📄 Leitura: HBN6507 Wer
+----------------------------------------
+[95] Imagem: 0fcc0db7-adf6-4aad-81eb-7e7b75ac68a2_jpg.rf.92507f8a6164e970a327cf112756657e.jpg
+⏱ Tempo: 1.062s
+📄 Leitura: k Wv 00a9039
+----------------------------------------
+[96] Imagem: 00a170f0-eeb2-4ea9-8ad8-4c86feb3d89e_jpg.rf.257e0ea3d45c7f6b8b25e1b7611572f1.jpg
+⏱ Tempo: 0.931s
+📄 Leitura: 4 H8AC4s
+----------------------------------------
+[97] Imagem: 0e46ff03-5e6c-4434-9efa-49cfe0735042_jpg.rf.851af0cf8f296e368aac728e50b3c056.jpg
+⏱ Tempo: 0.975s
+📄 Leitura: IUIHL FuSUNUs
+----------------------------------------
+[98] Imagem: 0bb5eae6-961b-4d66-be3c-3c7334889f36_jpg.rf.f86562bae6709d374a1aa22dabb29ff1.jpg
+⏱ Tempo: 0.956s
+📄 Leitura: WHSYH8Y
+----------------------------------------
+[99] Imagem: 0f335a3f-ba86-45ef-a2cb-710944015f05_jpg.rf.8786610728242c579aa406669dd10cd3.jpg
+⏱ Tempo: 0.968s
+📄 Leitura: H088
+----------------------------------------
+[100] Imagem: 0e08e75d-6304-4c83-a7b2-4d97458838e2_jpg.rf.c042997e87b9882ecff2e85fe941aaaa.jpg
+⏱ Tempo: 1.163s
+📄 Leitura: 8 HFU7?7
+----------------------------------------
+[101] Imagem: 0d00832e-aad1-43f2-b5d1-bba218b34b43_jpg.rf.1d5eeb92761edaba03d21f03c2552e73.jpg
+⏱ Tempo: 0.987s
+📄 Leitura: MN
+----------------------------------------
+[102] Imagem: 1a2ec192-2e8c-4121-b933-88c78f222463_jpg.rf.67f84b8ce9aaaf2bd7b9bca1744d2d97.jpg
+⏱ Tempo: 0.962s
+📄 Leitura: 8205E7
+----------------------------------------
+[103] Imagem: 0fb3a9e4-7a6c-4405-a464-efa2b8f4a6bd_jpg.rf.df6ef169dc6d33396494327006ecfe64.jpg
+⏱ Tempo: 0.973s
+📄 Leitura: us7rl
+----------------------------------------
+[104] Imagem: 1ac38246-f6a9-4c6b-9392-2825da4b95c7_jpg.rf.363902386994d232a263ed872afc07eb.jpg
+⏱ Tempo: 0.935s
+📄 Leitura: Ph9804
+----------------------------------------
+[105] Imagem: 0f004a62-8749-4b10-9269-d3631689e22f_jpg.rf.1312b35ebcff42a51c4f36988183afd9.jpg
+⏱ Tempo: 1.061s
+📄 Leitura: Waii 8KZIB99
+----------------------------------------
+[106] Imagem: 0bed50a1-4243-47ca-a7ad-d87305a67b39_jpg.rf.3c066f817551082caee387a77687b1fe.jpg
+⏱ Tempo: 1.068s
+📄 Leitura: JuOR 90I4|
+----------------------------------------
+[107] Imagem: 00c9a760-d879-469f-8143-e0be5451eed2_jpg.rf.771ce812248e25d02641c951897fedcd.jpg
+⏱ Tempo: 1.118s
+📄 Leitura: FIN 7074 "
+----------------------------------------
+[108] Imagem: 0b925e6f-9624-4fbb-b402-cfdb31b20892_jpg.rf.0548b77c270ea1c1ca339cc2ed8119a1.jpg
+⏱ Tempo: 0.979s
+📄 Leitura: J7h8737
+----------------------------------------
+[109] Imagem: 0aeda45a-a343-4335-8aca-edd5cc3854c6_jpg.rf.c7ae61ef81e8f1b2f3659de60ef1f042.jpg
+⏱ Tempo: 0.972s
+📄 Leitura: 12 YPHC 94u
+----------------------------------------
+[110] Imagem: 0c883fca-f2bb-4f62-a76c-a158c307224f_jpg.rf.735aa7b85f6ae0e7ae39e10b6e7e6c34.jpg
+⏱ Tempo: 0.931s
+📄 Leitura: 80599
+----------------------------------------
+[111] Imagem: 1b21ae1b-5c9e-42b4-af26-a1be6030f302_jpg.rf.755b61e02679b66fbf7a7c7546d7419b.jpg
+⏱ Tempo: 0.957s
+📄 Leitura: 81507]
+----------------------------------------
+[112] Imagem: 1b3ce04b-6ad5-4fd5-bc26-af647d54ec17_jpg.rf.38782465163eabf1ef3fe60e556ab624.jpg
+⏱ Tempo: 0.962s
+📄 Leitura: FS62525 
+----------------------------------------
+[113] Imagem: 0cb27ba0-e83f-4abb-b0e9-af6b5293a179_jpg.rf.c5976161b6b1317ead6d8b5eb6c30dee.jpg
+⏱ Tempo: 0.993s
+📄 Leitura: V7n5e7'
+----------------------------------------
+[114] Imagem: 0e08e75d-6304-4c83-a7b2-4d97458838e2_jpg.rf.7cfd174ab90689c35e6be6b0a5800464.jpg
+⏱ Tempo: 0.995s
+📄 Leitura: UYCuNE UYTU??]L
+----------------------------------------
+[115] Imagem: 0d48dff0-0ace-49c7-9c01-c73baa671f98_jpg.rf.85a1b09c6e51101fe7c8a9b4e0dd8d96.jpg
+⏱ Tempo: 1.037s
+📄 Leitura: Lupr 8664/
+----------------------------------------
+[116] Imagem: 0e08e75d-6304-4c83-a7b2-4d97458838e2_jpg.rf.75340204155c80c4639cdf6569da74fb.jpg
+⏱ Tempo: 1.045s
+📄 Leitura: Mbs IYiU?7 
+----------------------------------------
+[117] Imagem: 0c883fca-f2bb-4f62-a76c-a158c307224f_jpg.rf.71b1453fb11192f13afa63969c838e12.jpg
+⏱ Tempo: 0.944s
+📄 Leitura: J1J0599
+----------------------------------------
+[118] Imagem: 0e3dcc59-feb0-48f6-a346-7d0aab4b55e7_jpg.rf.9be8f8d9540929cd66c9e7d412bb7ab8.jpg
+⏱ Tempo: 0.999s
+📄 Leitura: FhCTaia
+----------------------------------------
+[119] Imagem: 0e3dcc59-feb0-48f6-a346-7d0aab4b55e7_jpg.rf.76a6a2a8f46753d2fcf4c3d51c874464.jpg
+⏱ Tempo: 0.975s
+📄 Leitura: FHCTaia
+----------------------------------------
+[120] Imagem: 0aeda45a-a343-4335-8aca-edd5cc3854c6_jpg.rf.49c548a823778c90716ce581c7444092.jpg
+⏱ Tempo: 1.000s
+📄 Leitura: YHC 94u
+----------------------------------------
+[121] Imagem: 1ac38246-f6a9-4c6b-9392-2825da4b95c7_jpg.rf.b531985ddcd1f90d38f938bf4ce417b3.jpg
+⏱ Tempo: 0.990s
+📄 Leitura: PHJ9964
+----------------------------------------
+[122] Imagem: 1a2ec192-2e8c-4121-b933-88c78f222463_jpg.rf.3870f6a8c55bf36a7018832e6c50c2ef.jpg
+⏱ Tempo: 0.975s
+📄 Leitura: 07N534
+----------------------------------------
+[123] Imagem: 1b21ae1b-5c9e-42b4-af26-a1be6030f302_jpg.rf.cb2868caaea48e4873f9ead520647194.jpg
+⏱ Tempo: 0.969s
+📄 Leitura: 815074]
+----------------------------------------
+[124] Imagem: 1ac1c818-51cc-43b2-9111-d490a6bae552_jpg.rf.3214096166b330bcc9ae7b375d7815ad.jpg
+⏱ Tempo: 0.956s
+📄 Leitura: 0705OU;
+----------------------------------------
+[125] Imagem: 1b60da90-da89-4ae5-aeb1-bc84e959eb5e_jpg.rf.90a276915e567013ce0ffca8340f7513.jpg
+⏱ Tempo: 0.992s
+📄 Leitura: 5" so Ph & IBYH8828 |
+----------------------------------------
+[126] Imagem: 0d9bd858-6f4b-4bca-b932-dbac4617a3b8_jpg.rf.c44ada6dc8ca5392a67aee5ad5244388.jpg
+⏱ Tempo: 0.997s
+📄 Leitura: maus 2
+----------------------------------------
+[127] Imagem: 00f87d4e-1532-462b-8277-39778481ecd3_jpg.rf.1d5c3b114cab85729ae35ce8788ea521.jpg
+⏱ Tempo: 0.987s
+📄 Leitura: Kpi0285| F
+----------------------------------------
+[128] Imagem: 0fb3a9e4-7a6c-4405-a464-efa2b8f4a6bd_jpg.rf.567f0336f39699badef1051b9cfd872d.jpg
+⏱ Tempo: 0.969s
+📄 Leitura: 0857
+----------------------------------------
+[129] Imagem: 0e1b883d-26b1-4d25-a634-4e37fae0ea69_jpg.rf.3b4cbdf69bf0f6d37f62d96ed982e202.jpg
+⏱ Tempo: 0.962s
+📄 Leitura: O KHSU8A
+----------------------------------------
+[130] Imagem: 0f869cd4-6cbc-4ff1-a9c7-4dce008dcead_jpg.rf.275b5a8c448e7160bd4af47164a7e250.jpg
+⏱ Tempo: 0.944s
+📄 Leitura: RoHKE8
+----------------------------------------
+[131] Imagem: 0d00832e-aad1-43f2-b5d1-bba218b34b43_jpg.rf.574257a58550359b8cf91d6d598c9798.jpg
+⏱ Tempo: 0.951s
+📄 Leitura: A88088D
+----------------------------------------
+[132] Imagem: 0e08e75d-6304-4c83-a7b2-4d97458838e2_jpg.rf.a585dbd6195af0dfb22086ca06f4b118.jpg
+⏱ Tempo: 1.003s
+📄 Leitura: h8RUs NTO?H 
+----------------------------------------
+[133] Imagem: 0ce92b7e-1c94-46b2-a554-22778db3eeb1_jpg.rf.3f04b4a835c79515ffebcae21862324e.jpg
+⏱ Tempo: 0.951s
+📄 Leitura: YHKT6M7
+----------------------------------------
+[134] Imagem: 00b73e50-0809-451d-91f6-131b079e1f8d_jpg.rf.13db6dc164b80f46cfaa628ad3564e1f.jpg
+⏱ Tempo: 0.973s
+📄 Leitura: 'pu2IM
+----------------------------------------
+[135] Imagem: 0edb25f1-eaae-4a1a-987b-971be8480d16_jpg.rf.07ea74569b601b8f7641fd4d0fe83962.jpg
+⏱ Tempo: 0.959s
+📄 Leitura: 'Dh6C93
+----------------------------------------
+[136] Imagem: 1b08be27-520c-4da5-b7df-2cd3fbb14585_jpg.rf.201756225ec380898c1ec545e4d0709c.jpg
+⏱ Tempo: 1.133s
+📄 Leitura: NOKITBI hiius
+----------------------------------------
+[137] Imagem: 0b925e6f-9624-4fbb-b402-cfdb31b20892_jpg.rf.9cb1938fff5ab03c7b94a7799662b7ef.jpg
+⏱ Tempo: 1.202s
+📄 Leitura: Mus J3H9737
+----------------------------------------
+[138] Imagem: 0f721656-df4d-4843-acae-371a90eeb328_jpg.rf.ec1e83cba2c99117066839c92c6d8830.jpg
+⏱ Tempo: 1.307s
+📄 Leitura: 1l/ LSUBFG2 
+----------------------------------------
+[139] Imagem: 1ac38246-f6a9-4c6b-9392-2825da4b95c7_jpg.rf.1a800d88831bdd8129e89d20f4c0ed83.jpg
+⏱ Tempo: 1.073s
+📄 Leitura: ph9904
+----------------------------------------
+[140] Imagem: 0f721656-df4d-4843-acae-371a90eeb328_jpg.rf.de8e9721ece3492631b6ebc3b8779d3f.jpg
+⏱ Tempo: 1.014s
+📄 Leitura: LSu8FG2
+----------------------------------------
+[141] Imagem: 0d48dff0-0ace-49c7-9c01-c73baa671f98_jpg.rf.74c70d05dae941138f5c2e5e3bfa35b0.jpg
+⏱ Tempo: 1.133s
+📄 Leitura: 866U Yupr
+----------------------------------------
+[142] Imagem: 0f71f3d6-21d5-452e-8936-37e7a28b858c_jpg.rf.7d6e5ac78151ad0e9c47556f14e37ef0.jpg
+⏱ Tempo: 1.026s
+📄 Leitura: 9 phj6995 
+----------------------------------------
+[143] Imagem: 1b3ce04b-6ad5-4fd5-bc26-af647d54ec17_jpg.rf.eab04f1c888770ed3db07dcfe4155213.jpg
+⏱ Tempo: 0.990s
+📄 Leitura: FS62525 
+----------------------------------------
+[144] Imagem: 0fcc0db7-adf6-4aad-81eb-7e7b75ac68a2_jpg.rf.c96e8ac69fb99edab56292b9e614249e.jpg
+⏱ Tempo: 1.012s
+📄 Leitura: 1 Wuk 00a9039
+----------------------------------------
+[145] Imagem: 0b925e6f-9624-4fbb-b402-cfdb31b20892_jpg.rf.201dc2e66f7d8444970dd994f04415f9.jpg
+⏱ Tempo: 0.947s
+📄 Leitura: 77h9797
+----------------------------------------
+[146] Imagem: 0f56d789-5aa0-4679-8235-2391270ab329_jpg.rf.ed28e893a1658b0ecdbc4728d622c18f.jpg
+⏱ Tempo: 0.944s
+📄 Leitura: 0705e78
+----------------------------------------
+[147] Imagem: 00f87d4e-1532-462b-8277-39778481ecd3_jpg.rf.838fb6f8428573a8e8e7d9fcea43f2c8.jpg
+⏱ Tempo: 1.021s
+📄 Leitura: Kp0285
+----------------------------------------
+[148] Imagem: 0dd9be17-8ed7-408e-a829-8757725fcf2c_jpg.rf.596d4357ade93d9096d5538c11028ff2.jpg
+⏱ Tempo: 1.001s
+📄 Leitura: HQ 'iivs 9681
+----------------------------------------
+[149] Imagem: 0e08e75d-6304-4c83-a7b2-4d97458838e2_jpg.rf.03a24d33a6809afe719d7618ff460533.jpg
+⏱ Tempo: 1.039s
+📄 Leitura: NTo] "r8s
+----------------------------------------
+[150] Imagem: 0fb3a9e4-7a6c-4405-a464-efa2b8f4a6bd_jpg.rf.b0cc1e17883680024fe0b50ffc1035e1.jpg
+⏱ Tempo: 1.006s
+📄 Leitura: 0657884
+----------------------------------------
+[151] Imagem: 00f87d4e-1532-462b-8277-39778481ecd3_jpg.rf.4fdc43155a00e316d9e9f53dcc61c4bd.jpg
+⏱ Tempo: 1.013s
+📄 Leitura: KpI[285|
+----------------------------------------
+[152] Imagem: 0cb27ba0-e83f-4abb-b0e9-af6b5293a179_jpg.rf.ddc58ee599cfc9b2a7d988e95c2f8c33.jpg
+⏱ Tempo: 1.017s
+📄 Leitura: 70567
+----------------------------------------
+[153] Imagem: 0d48dff0-0ace-49c7-9c01-c73baa671f98_jpg.rf.2ab4b7fbb70efed189b89ee1949b7882.jpg
+⏱ Tempo: 0.978s
+📄 Leitura: Lupr 0ge 1
+----------------------------------------
+[154] Imagem: 0d9bd858-6f4b-4bca-b932-dbac4617a3b8_jpg.rf.bcc613834fa0064e44b9f89af4d05213.jpg
+⏱ Tempo: 0.965s
+📄 Leitura: [Mi7u]
+----------------------------------------
+[155] Imagem: 1ac38246-f6a9-4c6b-9392-2825da4b95c7_jpg.rf.e608907d94229bc056c137dd39d1fa49.jpg
+⏱ Tempo: 0.992s
+📄 Leitura: ph9904
+----------------------------------------
+[156] Imagem: 1b3ce04b-6ad5-4fd5-bc26-af647d54ec17_jpg.rf.7462ab19a34b784d30e6d2e1a1ef0912.jpg
+⏱ Tempo: 0.989s
+📄 Leitura: FS6" 2525 
+----------------------------------------
+[157] Imagem: 1a371626-f1a2-4b67-939b-3eb7f48d0d9c_jpg.rf.f1e51b80758362c7d045ba2986279845.jpg
+⏱ Tempo: 0.995s
+📄 Leitura: Ivsl KT5F76
+----------------------------------------
+[158] Imagem: 0c1f7cdb-352e-4b71-86fd-93076fab4f46_jpg.rf.6dd9241062b9b816ed7fbb638fc266b7.jpg
+⏱ Tempo: 1.010s
+📄 Leitura: 702Y6953
+----------------------------------------
+[159] Imagem: 1afdc22a-7dc3-44a3-b994-313e8781efbd_jpg.rf.cc6a8675189ef288886c4d236d31301f.jpg
+⏱ Tempo: 1.031s
+📄 Leitura: 7nF5825
+----------------------------------------
+[160] Imagem: 0d48dff0-0ace-49c7-9c01-c73baa671f98_jpg.rf.d4ac7d647dc256c1b4fd73e5ba59a663.jpg
+⏱ Tempo: 1.024s
+📄 Leitura: 8664/ Yupr
+----------------------------------------
+[161] Imagem: 0bed50a1-4243-47ca-a7ad-d87305a67b39_jpg.rf.d78db364188340dbc4823d81b65dc0ff.jpg
+⏱ Tempo: 1.072s
+📄 Leitura: [08R9014
+----------------------------------------
+[162] Imagem: 0c4d877a-9f9b-4bdb-a26f-9c963bac22c3_jpg.rf.21496b359b4c1b5242e92251a439793c.jpg
+⏱ Tempo: 0.997s
+📄 Leitura: Ip2849|
+----------------------------------------
+[163] Imagem: 1b21ae1b-5c9e-42b4-af26-a1be6030f302_jpg.rf.7a5b7535e59fffb3b036a047aecf3a2b.jpg
+⏱ Tempo: 1.015s
+📄 Leitura: 6507!]
+----------------------------------------
+[164] Imagem: 1ba2d26e-bf0e-4c66-a798-6b9b45ad9665_jpg.rf.3189b55126c0e657189c4655c0f8e62a.jpg
+⏱ Tempo: 1.078s
+📄 Leitura: M1 XH68RD
+----------------------------------------
+[165] Imagem: 1b08be27-520c-4da5-b7df-2cd3fbb14585_jpg.rf.9fed3210d5ae631f9ec6e92d6539b80c.jpg
+⏱ Tempo: 0.981s
+📄 Leitura: Ivs HA9TBI
+----------------------------------------
+[166] Imagem: 00a170f0-eeb2-4ea9-8ad8-4c86feb3d89e_jpg.rf.799414152cb2eb3802fed6aff1ae626a.jpg
+⏱ Tempo: 0.987s
+📄 Leitura: 8KRA845
+----------------------------------------
+[167] Imagem: 1b60da90-da89-4ae5-aeb1-bc84e959eb5e_jpg.rf.ac6ac70e845a82deabc13bf238107390.jpg
+⏱ Tempo: 1.020s
+📄 Leitura: 517pl48 HYH 6828
+----------------------------------------
+[168] Imagem: 0eb9ba59-69d7-4aa0-9e6d-dd92be0d7145_jpg.rf.df9ab46d0807cf32eb26aabb766e9b9f.jpg
+⏱ Tempo: 1.080s
+📄 Leitura: 6 Wu94 ht5F76
+----------------------------------------
+[169] Imagem: 00f87d4e-1532-462b-8277-39778481ecd3_jpg.rf.803b143415bb118000d071824379bd93.jpg
+⏱ Tempo: 0.983s
+📄 Leitura: Kpi025
+----------------------------------------
+[170] Imagem: 00f87d4e-1532-462b-8277-39778481ecd3_jpg.rf.495d43cf389a97bb165766f7e6f3e244.jpg
+⏱ Tempo: 1.005s
+📄 Leitura: 'Gi7i Mnee KpM0285
+----------------------------------------
+[171] Imagem: 0bed50a1-4243-47ca-a7ad-d87305a67b39_jpg.rf.5a60b1e010eabb164260588c48c86dc4.jpg
+⏱ Tempo: 1.039s
+📄 Leitura: [0UR5014
+----------------------------------------
+[172] Imagem: 0f71f3d6-21d5-452e-8936-37e7a28b858c_jpg.rf.c7615beeef8dcedae584e67451c6ac5e.jpg
+⏱ Tempo: 1.014s
+📄 Leitura: phe995
+----------------------------------------
+[173] Imagem: 0e46ff03-5e6c-4434-9efa-49cfe0735042_jpg.rf.88138529c9cdfa70a121c66d389a1f1c.jpg
+⏱ Tempo: 1.130s
+📄 Leitura: UlIIL FuSAD5
+----------------------------------------
+[174] Imagem: 0b493b8d-c8f2-444a-9424-479477bc7b26_jpg.rf.f456a6eff0900573d1e3b13469f2216d.jpg
+⏱ Tempo: 1.021s
+📄 Leitura: 4os 050g
+----------------------------------------
+[175] Imagem: 0d97903a-038d-44d6-ae64-3d29407960ea_jpg.rf.c77d931fedfc0f8d3874b7d0d57748c8.jpg
+⏱ Tempo: 1.039s
+📄 Leitura: 5kr p074
+----------------------------------------
+[176] Imagem: 0f869cd4-6cbc-4ff1-a9c7-4dce008dcead_jpg.rf.4ea67296cd38e4a5ae20e2dee936c50f.jpg
+⏱ Tempo: 1.052s
+📄 Leitura: RoYhEBI
+----------------------------------------
+[177] Imagem: 0e46ff03-5e6c-4434-9efa-49cfe0735042_jpg.rf.f2035e0a2a5a91f89cd824d0364c4276.jpg
+⏱ Tempo: 0.998s
+📄 Leitura: JiUI FISMK5
+----------------------------------------
+[178] Imagem: 00a170f0-eeb2-4ea9-8ad8-4c86feb3d89e_jpg.rf.37d2b0848a440f6b169d217b35515168.jpg
+⏱ Tempo: 1.046s
+📄 Leitura: IIT H848A5
+----------------------------------------
+[179] Imagem: 0b9d6f2e-a917-40e7-b31c-a305a694ffe5_jpg.rf.a1f7add7e1c772e1a3ceb45bbe4c6c43.jpg
+⏱ Tempo: 1.023s
+📄 Leitura: HhasH NUH5L25
+----------------------------------------
+[180] Imagem: 00f87d4e-1532-462b-8277-39778481ecd3_jpg.rf.d2281f91be6d8c9684f7dd9e0753b366.jpg
+⏱ Tempo: 1.025s
+📄 Leitura: 'Giile Mneet KpM0285
+----------------------------------------
+[181] Imagem: 0e1b883d-26b1-4d25-a634-4e37fae0ea69_jpg.rf.c23356becee661ffdef0717b89641a0e.jpg
+⏱ Tempo: 1.088s
+📄 Leitura: O KHS88A
+----------------------------------------
+[182] Imagem: 0d9bd858-6f4b-4bca-b932-dbac4617a3b8_jpg.rf.10fea0d0595c8e45640f05eeeb999729.jpg
+⏱ Tempo: 1.025s
+📄 Leitura: Au
+----------------------------------------
+[183] Imagem: 0eb57e7a-71a5-4fa2-b1c9-d26d7a14053a_jpg.rf.5884133621fac371abdbe3c5e1983549.jpg
+⏱ Tempo: 1.112s
+📄 Leitura: Wu 00a9039
+----------------------------------------
+[184] Imagem: 1a2ec192-2e8c-4121-b933-88c78f222463_jpg.rf.f13a9350ddca85301cc3c074351831ef.jpg
+⏱ Tempo: 0.975s
+📄 Leitura: 8205E7
+----------------------------------------
+[185] Imagem: 0ac23294-449a-44d2-a3fd-f028d78b6a7e_jpg.rf.65b52cc9d02cb2ba7fe52edb321f776a.jpg
+⏱ Tempo: 0.985s
+📄 Leitura: ANF87
+----------------------------------------
+[186] Imagem: 0fb3a9e4-7a6c-4405-a464-efa2b8f4a6bd_jpg.rf.7a14b2828de774527059bda7bb8e935e.jpg
+⏱ Tempo: 1.130s
+📄 Leitura: '0867884
+----------------------------------------
+[187] Imagem: 1b08be27-520c-4da5-b7df-2cd3fbb14585_jpg.rf.b2bdd57f332d5ca4b7cbb013b79681b8.jpg
+⏱ Tempo: 1.010s
+📄 Leitura: HAKETBi aiiius
+----------------------------------------
+[188] Imagem: 0b925e6f-9624-4fbb-b402-cfdb31b20892_jpg.rf.009a3752e249ac092b53354c47d1cff6.jpg
+⏱ Tempo: 0.947s
+📄 Leitura: 77h9797
+----------------------------------------
+[189] Imagem: 00a170f0-eeb2-4ea9-8ad8-4c86feb3d89e_jpg.rf.45ccbb0a747a8acda3878be0371ad314.jpg
+⏱ Tempo: 0.991s
+📄 Leitura: I7 HMRA8A5
+----------------------------------------
+[190] Imagem: 1b08be27-520c-4da5-b7df-2cd3fbb14585_jpg.rf.c69ced5338c817c6bab7befcbfc007ff.jpg
+⏱ Tempo: 1.040s
+📄 Leitura: HQKEQI JWvs
+----------------------------------------
+[191] Imagem: 0dc6fb1a-2ce5-4581-aa36-17a99ff54d16_jpg.rf.294a702dd2501fac7cea7582940994ee.jpg
+⏱ Tempo: 0.944s
+📄 Leitura: Phd52i0
+----------------------------------------
+[192] Imagem: 0f004a62-8749-4b10-9269-d3631689e22f_jpg.rf.9cb24af71710e0f80443a9143fde3050.jpg
+⏱ Tempo: 1.015s
+📄 Leitura: Shas < 87ZIB99
+----------------------------------------
+[193] Imagem: 1b08be27-520c-4da5-b7df-2cd3fbb14585_jpg.rf.79a4c47a21d8b2aecc3b729b22077f98.jpg
+⏱ Tempo: 0.973s
+📄 Leitura: Jvs HoKs6bi
+----------------------------------------
+[194] Imagem: 1b0f800d-1713-4373-82b9-6e905826d134_jpg.rf.868949d5b437148a1e7efe29605833ee.jpg
+⏱ Tempo: 1.122s
+📄 Leitura: Lamuu HeN6507 
+----------------------------------------
+[195] Imagem: 00f87d4e-1532-462b-8277-39778481ecd3_jpg.rf.cee3cc7ffa8d28a4cfda7ae7c778afbd.jpg
+⏱ Tempo: 1.027s
+📄 Leitura: Kpi025
+----------------------------------------
+[196] Imagem: 1b21ae1b-5c9e-42b4-af26-a1be6030f302_jpg.rf.8bc3e8a578915673f8b8009cb04ae002.jpg
+⏱ Tempo: 0.994s
+📄 Leitura: 8ISU7!]
+----------------------------------------
+[197] Imagem: 00c9a760-d879-469f-8143-e0be5451eed2_jpg.rf.226c2e685678f3aa779d04bf8009b16d.jpg
+⏱ Tempo: 0.995s
+📄 Leitura: FtC 7074
+----------------------------------------
+[198] Imagem: 0fcc0db7-adf6-4aad-81eb-7e7b75ac68a2_jpg.rf.a11eebb9320eb831c5edfcc0b2670ad5.jpg
+⏱ Tempo: 0.987s
+📄 Leitura: 0 Wy 00a9039
+----------------------------------------
+[199] Imagem: 0be9fd4a-cba3-41ba-b618-1331288380b2_jpg.rf.e624c970645f67df8cdf2fec8e763beb.jpg
+⏱ Tempo: 0.972s
+📄 Leitura: 8Zu8A8
+----------------------------------------
+[200] Imagem: 1ba2d26e-bf0e-4c66-a798-6b9b45ad9665_jpg.rf.9f56425fabdd250c7ccf6738481f1f5c.jpg
+⏱ Tempo: 1.023s
+📄 Leitura: 012 XH68RI
+----------------------------------------
+[201] Imagem: 0e3dcc59-feb0-48f6-a346-7d0aab4b55e7_jpg.rf.85306f2ddf808c1bf5a17de36f5c0aec.jpg
+⏱ Tempo: 1.090s
+📄 Leitura: PHCqAI
+----------------------------------------
+[202] Imagem: 00f87d4e-1532-462b-8277-39778481ecd3_jpg.rf.20a4a736623f24d4109e313f99bb8593.jpg
+⏱ Tempo: 0.979s
+📄 Leitura: Kpi0285|
+----------------------------------------
+[203] Imagem: 0f56d789-5aa0-4679-8235-2391270ab329_jpg.rf.f04c029a4608b28f4f9ee694ef950748.jpg
+⏱ Tempo: 0.996s
+📄 Leitura: 070578
+----------------------------------------
+[204] Imagem: 1b3ce04b-6ad5-4fd5-bc26-af647d54ec17_jpg.rf.609589c9b4d706e25be169f3f545bae5.jpg
+⏱ Tempo: 1.022s
+📄 Leitura: FS6~ 2525 
+----------------------------------------
+[205] Imagem: 0e46ff03-5e6c-4434-9efa-49cfe0735042_jpg.rf.46f9ab3e68e7c3e3af856b54341f6b90.jpg
+⏱ Tempo: 0.964s
+📄 Leitura: Iil FJS8845
+----------------------------------------
+[206] Imagem: 0d48dff0-0ace-49c7-9c01-c73baa671f98_jpg.rf.ee54fb7a082404cf444de8bf42d3acd7.jpg
+⏱ Tempo: 0.969s
+📄 Leitura: 86l Lupr
+----------------------------------------
+[207] Imagem: 1a371626-f1a2-4b67-939b-3eb7f48d0d9c_jpg.rf.02fa38fba84622cb5edb29eb36efd512.jpg
+⏱ Tempo: 1.026s
+📄 Leitura: IMsIl hT5F76
+----------------------------------------
+[208] Imagem: 0a64a118-fdf0-4ada-9904-d30ef598a6b8_jpg.rf.ef44c184f874061d7a52bddaec9d2505.jpg
+⏱ Tempo: 0.966s
+📄 Leitura: KuseC39
+----------------------------------------
+[209] Imagem: 0edb25f1-eaae-4a1a-987b-971be8480d16_jpg.rf.cabb458fe462afb3afb14bb820518e95.jpg
+⏱ Tempo: 1.171s
+📄 Leitura: Dh6c93
+----------------------------------------
+[210] Imagem: 0fb3a9e4-7a6c-4405-a464-efa2b8f4a6bd_jpg.rf.dce727869794367ef0640beed07a118a.jpg
+⏱ Tempo: 1.058s
+📄 Leitura: 0$ 46845
+----------------------------------------
+[211] Imagem: 0fb3a9e4-7a6c-4405-a464-efa2b8f4a6bd_jpg.rf.b22d2486eecf3b20e5d2abddaf7c0d4d.jpg
+⏱ Tempo: 1.127s
+📄 Leitura: 4884 015
+----------------------------------------
+[212] Imagem: 1b3ce04b-6ad5-4fd5-bc26-af647d54ec17_jpg.rf.9e9959f38db537b9d8554cd31395b9db.jpg
+⏱ Tempo: 1.048s
+📄 Leitura: FSG2525 
+----------------------------------------
+[213] Imagem: 0f71f3d6-21d5-452e-8936-37e7a28b858c_jpg.rf.c18262994cf77d025dcb1755440d2fd2.jpg
+⏱ Tempo: 1.057s
+📄 Leitura: phe995
+----------------------------------------
+[214] Imagem: 0f56d789-5aa0-4679-8235-2391270ab329_jpg.rf.baec653ff453d00cecd787d1bdd95498.jpg
+⏱ Tempo: 1.001s
+📄 Leitura: 070578
+----------------------------------------
+[215] Imagem: 0c96b396-6ac4-4826-88b6-fdde0713bfd0_jpg.rf.9945a245908a24bc85f8f0a9d7f02f13.jpg
+⏱ Tempo: 1.132s
+📄 Leitura: 0 Ilk 0ZX3866
+----------------------------------------
+[216] Imagem: 0e59f831-fa41-48e6-8fcb-32f13579fd96_jpg.rf.70e532e921b021243ee837649b3db951.jpg
+⏱ Tempo: 1.015s
+📄 Leitura: h0r4507 
+----------------------------------------
+[217] Imagem: 0e08e75d-6304-4c83-a7b2-4d97458838e2_jpg.rf.d0721e17452c86f9381ba3bb59bafae6.jpg
+⏱ Tempo: 1.045s
+📄 Leitura: 18T0?7 84UMs
+----------------------------------------
+[218] Imagem: 0e59f831-fa41-48e6-8fcb-32f13579fd96_jpg.rf.df6d6a889f7518b25fc06c060cbe7eef.jpg
+⏱ Tempo: 1.033s
+📄 Leitura: HoR 4507
+----------------------------------------
+[219] Imagem: 1b21ae1b-5c9e-42b4-af26-a1be6030f302_jpg.rf.37a31e7c4ed04af5ffceac0b04183a28.jpg
+⏱ Tempo: 1.016s
+📄 Leitura: [6107V]
+----------------------------------------
+[220] Imagem: 0fcc0db7-adf6-4aad-81eb-7e7b75ac68a2_jpg.rf.92bf890bf52f21b340b1450b76faa804.jpg
+⏱ Tempo: 1.130s
+📄 Leitura: Wu 00a9039
+----------------------------------------
+[221] Imagem: 0ce92b7e-1c94-46b2-a554-22778db3eeb1_jpg.rf.cbe5d2f69684fdfdbb9406b322fec584.jpg
+⏱ Tempo: 1.056s
+📄 Leitura: phKGD]
+----------------------------------------
+[222] Imagem: 0b9d6f2e-a917-40e7-b31c-a305a694ffe5_jpg.rf.77451a047d1607c1a2f1f3fd53ecae77.jpg
+⏱ Tempo: 0.976s
+📄 Leitura: HhAsH HUH5L25
+----------------------------------------
+[223] Imagem: 0e08e75d-6304-4c83-a7b2-4d97458838e2_jpg.rf.e472aa35032e5d731cc101935edbd365.jpg
+⏱ Tempo: 1.013s
+📄 Leitura: AYhHS NY70?]
+----------------------------------------
+[224] Imagem: 1b6ea067-4593-4407-a2f8-165f650a7b76_jpg.rf.9f41cba8427011d0c37e6079db6ef4db.jpg
+⏱ Tempo: 0.969s
+📄 Leitura: I: KLE820 | (igvaeis
+----------------------------------------
+[225] Imagem: 0fcc0db7-adf6-4aad-81eb-7e7b75ac68a2_jpg.rf.ab7d3c78e7eb6dff2919634c5ae8d0eb.jpg
+⏱ Tempo: 1.076s
+📄 Leitura: 0 | Wv 00a9030
+----------------------------------------
