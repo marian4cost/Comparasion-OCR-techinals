@@ -81,9 +81,13 @@ pip install pytesseract Pillow easyocr
 ```text
 Comparasion-OCR-techinals/
 │
-├── 📂 pasta_de_imagens/
-│   └── Imagens utilizadas nos testes em lote
-│
+├── 📂 readingPlate/
+        ├── 📂 images/
+           └── Imagens utilizadas nos testes em lote
+        ├── 🐍 readingPlate/tesseractocr.py
+            └── Processamento em lote utilizando Tesseract
+        ├── 🐍 readingPlate/easyocr.py
+            └── Processamento em lote utilizando EasyOCR
 ├── 🖼️ pagSherlook.jpeg
 │   └── Imagem utilizada no teste individual
 │
@@ -92,12 +96,6 @@ Comparasion-OCR-techinals/
 │
 ├── 🐍 easyocr.py
 │   └── Leitura de página utilizando EasyOCR
-│
-├── 🐍 readingPlate/tesseractocr.py
-│   └── Processamento em lote utilizando Tesseract
-│
-├── 🐍 readingPlate/easyocr.py
-│   └── Processamento em lote utilizando EasyOCR
 │
 ├── 📄 .gitignore
 │   └── Arquivos ignorados pelo Git
