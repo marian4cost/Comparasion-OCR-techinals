@@ -254,11 +254,3 @@ A escolha depende principalmente das características das imagens que serão pro
 ## 👩‍💻 Autora
 
 **Mariana da Costa Lisboa**
-
-Projeto desenvolvido para estudos e experimentação em **Visão Computacional, OCR e Processamento de Imagens com Python**.
-
----
-
-## 📄 Licença
-
-Este projeto está disponível para fins **educacionais e experimentais**.
