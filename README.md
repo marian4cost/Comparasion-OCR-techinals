@@ -85,7 +85,7 @@ Comparasion-OCR-techinals/
 |        |
 |        ├── 📂 images/
 |           └── Imagens utilizadas nos testes em lote
-||       ├── 🐍 readingPlate/tesseractocr.py
+|        ├── 🐍 readingPlate/tesseractocr.py
 |            └── Processamento em lote utilizando Tesseract
 |        ├── 🐍 readingPlate/easyocr.py
 |           └── Processamento em lote utilizando EasyOCR
